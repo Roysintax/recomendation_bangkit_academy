@@ -1,0 +1,9 @@
+Flask
+numpy
+pandas
+nltk
+SQLAlchemy
+tensorflow
+scikit-learn
+pymysql
+flask_sqlalchemy
